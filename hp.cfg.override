@@ -1,0 +1,6 @@
+{
+  "input_protocol": "json",
+  "max_message_size": 1048576,
+  "round_interval_ms": 3000,
+  "log_level": "info"
+}

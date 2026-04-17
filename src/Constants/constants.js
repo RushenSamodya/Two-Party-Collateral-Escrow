@@ -1,0 +1,6 @@
+const AGREEMENT_STATUS = {
+  PENDING: 'PENDING',
+  RELEASED: 'RELEASED'
+};
+
+module.exports = { AGREEMENT_STATUS };
